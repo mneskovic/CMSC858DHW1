@@ -7,3 +7,5 @@
 
   - `clang++ -std=c++20 -O3 -DNDEBUG -I ./include -L ./lib hw1.cpp -o hw1 -lsdsl -ldivsufsort -ldivsufsort64`
   - `./hw1`
+
+- Code will output whether each class works correctly and writes to the testing files (used for plots)
