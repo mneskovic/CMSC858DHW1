@@ -1,0 +1,2 @@
+# Rank Support
+my_sparse_array.cpp includes the sparse array class. While no tests are done in this directory, testing can be done by running hw1.cpp which runs all of the implementations. To use the implementation simply include the path to my_sparse_array.cpp in any file.

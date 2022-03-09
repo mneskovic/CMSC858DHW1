@@ -1,0 +1,2 @@
+# Rank Support
+my_rank_support.cpp includes the rank support class. While no tests are done in this directory, testing can be done by running hw1.cpp which runs all of the implementations. To use the implementation simply include the path to my_rank_support.cpp in any file.
